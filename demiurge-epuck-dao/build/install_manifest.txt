@@ -1,0 +1,10 @@
+/usr/local/include/argos3/demiurge/epuck-dao/EpuckDAO.h
+/usr/local/include/argos3/demiurge/epuck-dao/RabMessageBuffer.h
+/usr/local/include/argos3/demiurge/epuck-dao/ReferenceModel1Dot1.h
+/usr/local/include/argos3/demiurge/epuck-dao/ReferenceModel1Dot2.h
+/usr/local/include/argos3/demiurge/epuck-dao/ReferenceModel2Dot0.h
+/usr/local/include/argos3/demiurge/epuck-dao/ReferenceModel2Dot1.h
+/usr/local/include/argos3/demiurge/epuck-dao/ReferenceModel2Dot2.h
+/usr/local/include/argos3/demiurge/epuck-dao/ReferenceModel2Dot3.h
+/usr/local/include/argos3/demiurge/epuck-dao/ReferenceModel3Dot0.h
+/usr/local/lib/argos3/libargos3_demiurge_epuck_dao.so
